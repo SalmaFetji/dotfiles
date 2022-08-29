@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = salma_fetji@hotmail.fr
+	name = salma fetjah
